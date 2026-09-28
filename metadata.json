@@ -1,0 +1,6 @@
+{
+  "name": "Twist & Bloom | Handmade Pipe-Cleaner Crafts & Gifts",
+  "description": "Boutique handmade pipe-cleaner flowers, everlasting bouquets, cute keychains, decorative floral lamps, and personalized bespoke gifts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
